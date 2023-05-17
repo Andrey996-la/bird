@@ -1,0 +1,50 @@
+{"frames": [
+
+{
+	"filename": "wood1",
+	"frame": {"x":0,"y":0,"w":186,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":208},
+	"sourceSize": {"w":186,"h":208}
+},
+{
+	"filename": "wood2",
+	"frame": {"x":186,"y":0,"w":186,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":208},
+	"sourceSize": {"w":186,"h":208}
+},
+{
+	"filename": "wood3",
+	"frame": {"x":372,"y":0,"w":186,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":208},
+	"sourceSize": {"w":186,"h":208}
+},
+{
+	"filename": "wood4",
+	"frame": {"x":558,"y":0,"w":186,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":208},
+	"sourceSize": {"w":186,"h":208}
+},
+{
+	"filename": "wood5",
+	"frame": {"x":744,"y":0,"w":186,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":208},
+	"sourceSize": {"w":186,"h":208}
+},
+{
+	"filename": "wood6",
+	"frame": {"x":930,"y":0,"w":186,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":208},
+	"sourceSize": {"w":186,"h":208}
+}]}

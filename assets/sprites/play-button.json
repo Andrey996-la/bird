@@ -1,0 +1,67 @@
+{
+  "frames": [
+    {
+      "filename": "play active",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 364,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 364,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 364,
+        "h": 362
+      }
+    },
+    {
+      "filename": "play hover",
+      "frame": {
+        "x": 364,
+        "y": 0,
+        "w": 364,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 364,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 364,
+        "h": 362
+      }
+    },
+    {
+      "filename": "play",
+      "frame": {
+        "x": 728,
+        "y": 0,
+        "w": 364,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 364,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 364,
+        "h": 362
+      }
+    }
+  ]
+}

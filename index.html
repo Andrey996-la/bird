@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Memory Game</title>
+    <style>
+        body {
+            background: rgba(0, 0, 0, 0.08);
+            padding: 0;
+            margin: 0;
+        }
+        canvas {
+            width: auto;
+            height: 100vh;
+        }
+        @font-face {
+            font-family: 'YanoneKaffeesatz';
+            src: url("assets/fonts/YanoneKaffeesatzSemiBold.ttf");
+        }
+        .fontPreload {
+            font-family: 'YanoneKaffeesatz',sans-serif;
+            position: absolute;
+            left: -100px;
+        }
+    </style>
+</head>
+<body>
+    <div class="fontPreload">.</div>
+
+    <script src="assets/scripts/libs/phaser.js"></script>
+    <script src="assets/scripts/prefabs/Enemy.js"></script>
+    <script src="assets/scripts/prefabs/Ring.js"></script>
+    <script src="assets/scripts/prefabs/Objects.js"></script>
+    <script src="assets/scripts/prefabs/Player.js"></script>
+    <script src="assets/scripts/prefabs/Wood.js"></script>
+    <script src="assets/scripts/prefabs/Forest.js"></script>
+    <script src="assets/scripts/scene/BootScene.js"></script>
+    <script src="assets/scripts/scene/PreloadScene.js"></script>
+    <script src="assets/scripts/scene/GameScene.js"></script>
+    <script src="assets/scripts/scene/ChoiceScene.js"></script>
+    <script src="assets/scripts/scene/LeaderScene.js"></script>
+    <script src="assets/scripts/scene/StartScene.js"></script>
+    <script src="assets/scripts/scene/RestartScene.js"></script>
+    <script src="assets/scripts/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{"frames": [
+
+{
+	"filename": "pause",
+	"frame": {"x":0,"y":0,"w":140,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":133},
+	"sourceSize": {"w":140,"h":133}
+},
+{
+	"filename": "play",
+	"frame": {"x":140,"y":0,"w":140,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":133},
+	"sourceSize": {"w":140,"h":133}
+}]}

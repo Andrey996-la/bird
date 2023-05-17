@@ -1,0 +1,27 @@
+{"frames": [
+
+{
+	"filename": "music-active",
+	"frame": {"x":0,"y":0,"w":137,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":134},
+	"sourceSize": {"w":137,"h":134}
+},
+{
+	"filename": "music-hover",
+	"frame": {"x":137,"y":0,"w":137,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":134},
+	"sourceSize": {"w":137,"h":134}
+},
+{
+	"filename": "music-off",
+	"frame": {"x":274,"y":0,"w":137,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":134},
+	"sourceSize": {"w":137,"h":134}
+}]
+}

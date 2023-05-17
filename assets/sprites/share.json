@@ -1,0 +1,18 @@
+{"frames": [
+
+{
+	"filename": "hover",
+	"frame": {"x":0,"y":0,"w":136,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":134},
+	"sourceSize": {"w":136,"h":134}
+},
+{
+	"filename": "active",
+	"frame": {"x":136,"y":0,"w":136,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":134},
+	"sourceSize": {"w":136,"h":134}
+}]}

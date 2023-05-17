@@ -1,0 +1,46 @@
+{
+  "frames": [
+    {
+      "filename": "ring1",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 461
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 461
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 461
+      }
+    },
+    {
+      "filename": "ring2",
+      "frame": {
+        "x": 263,
+        "y": 0,
+        "w": 263,
+        "h": 461
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 461
+      },
+      "sourceSize": {
+        "w": 263,
+        "h": 461
+      }
+    }
+  ]
+}
